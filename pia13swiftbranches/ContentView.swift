@@ -17,6 +17,9 @@ struct ContentView: View {
         }
         .padding()
     }
+    func nyfunction() {
+        // Funkar inte sa bra
+    }
 }
 
 #Preview {
