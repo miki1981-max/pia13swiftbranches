@@ -20,7 +20,7 @@ struct ContentView: View {
         .padding()
     }
     func nyfunction() {
-        // Den är nu bra
+        // Den är nu ännu bättre
         
     }
 }
